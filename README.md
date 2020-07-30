@@ -14,3 +14,7 @@ Currently i'm study programming for enter the development world. My favorite lan
 - 🔭 I’m currently working Analist of Support in Town Hall São Bernardo do Campo.
 - 🌱 In moment, i'm learning Html, CSS3, JavaScript, NodeJS, ReactJS and ReactNative.
 - ⚡ Fun fact about me: I love play eletric Guitar, play riffs of rock n roll, watch series, movies and play video games.
+
+<p align="left">
+  <img src="https://i.imgur.com/8Dj4qM9.png" width="250" alt="avatar">
+</p>
