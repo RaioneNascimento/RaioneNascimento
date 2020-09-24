@@ -1,20 +1,38 @@
-# Raione Nascimento 💻
-
-[![Linkedin Badge](https://img.shields.io/badge/-Raione%20Nascimento-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raionenascimento/)](https://www.linkedin.com/in/raionenascimento/) 
-[![Gmail Badge](https://img.shields.io/badge/-raionebonfim@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raionebonfim@gmail.com)](mailto:raionebonfim@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Raione%20Bonfim-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/raionebonfim/)](https://www.facebook.com/raionebonfim) 
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511959533388)](https://api.whatsapp.com/send?phone=5511959533388&text=Ol%C3%A1%20Raione%2C%20visitei%20o%20seu%20Github%20e%20gostei.%20Podemos%20conversar%3F) 
-
-
-*My name is Raione Nascimento, have 27 years old. I'm graduate in Analist and Develope Sistem on University Anhanguera.*
-
-Currently i'm study programming for enter the development world. My favorite language is JavaScript, with this, i can programming in Node Js, ReactJs and React Native.
-
-
-- 🔭 I’m currently working Analist of Support in Town Hall São Bernardo do Campo.
-- 🌱 In moment, i'm learning Html, CSS3, JavaScript, NodeJS, ReactJS and ReactNative.
-- ⚡ Fun fact about me: I love play eletric Guitar, play riffs of rock n roll, watch series, movies and play video games.
+<img src="https://i.imgur.com/2yBuJZE.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaioneCode">
 
 <p align="left">
-  <img src="https://i.imgur.com/8Dj4qM9.png" width="250" alt="avatar">
+  Olá! meu nome é Raione, tenho 27 anos e estou estudando para me tornar um <strong>Desenvolvedor Front-end</strong> e entrar no mundo   da programação.
 </p>
+
+<p align="left">
+  Minha linguagem favorita é JavaScript e meu amor por programação só vem crescendo depois de conhece-la.
+</p>
+
+<p align="left">
+🚀 Skills: <strong>HTML5, CSS3 e JavaScript</strong>.
+</p>
+
+<p align="left">
+💻 Estudando atualmente: <strong>JavaScript, ReactJs e React Native</strong>.
+</p>
+
+<p align="left">
+📖 Pretende aprender: <strong>jQuery, TypeScript, Node.JS,e Bootstrap</strong>.
+</p>
+
+<p align="left">
+📬 Quer entrar em contato? Envie sua mensagem através dessas redes abaixo!
+</p>
+
+<p align="left">
+<a href="mailto:raionebonfim@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-raionebonfim@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=raionebonfim@gmail.com" /></a>
+
+<a href="https://www.linkedin.com/in/raionenascimento" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Raione%20Nascimento-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raionenascimento/" /></a>
+
+<a href="https://www.facebook.com/raionebonfim" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Raione%20Bonfim-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/raionebonfim/" /></a>
+
+<a href="https://api.whatsapp.com/send?phone=5511959533388&text=Ol%C3%A1%20Raione%2C%20visitei%20o%20seu%20Github%20e%20gostei.%20Podemos%20conversar%3F">
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511959533388" /></a>
