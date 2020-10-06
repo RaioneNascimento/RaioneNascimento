@@ -1,11 +1,11 @@
-<img src="https://i.imgur.com/2yBuJZE.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaioneCode">
+<img src="https://i.imgur.com/6YoDxTE.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaioneCode">
 
 <p align="left">
   Olá! meu nome é Raione, tenho 27 anos e estou estudando para me tornar um <strong>Desenvolvedor Front-end</strong> e entrar no mundo   da programação.
 </p>
 
 <p align="left">
-  Minha linguagem favorita é JavaScript e meu amor por programação só vem crescendo depois de conhece-la.
+  Minha linguagem favorita é JavaScript e através dela meu amor por programação só tem crescido.
 </p>
 
 <p align="left">
@@ -17,11 +17,11 @@
 </p>
 
 <p align="left">
-📖 Pretende aprender: <strong>jQuery, TypeScript, Node.JS,e Bootstrap</strong>.
+📖 Pretende aprender: <strong>jQuery, TypeScript, Node.JS e Bootstrap</strong>.
 </p>
 
 <p align="left">
-📬 Quer entrar em contato? Envie sua mensagem através dessas redes abaixo!
+📬 Quer entrar em contato? Me envie uma mensagem através das redes sociais abaixo 😉!
 </p>
 
 <p align="left">
