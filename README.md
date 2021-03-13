@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-💻 Estudando atualmente: <strong>JavaScript, ReactJs e React Native</strong>.
+💻 Estudando atualmente: <strong>JavaScript, ReactJs, React Native e Vue.js</strong>.
 </p>
 
 <p align="left">
