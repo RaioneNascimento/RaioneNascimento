@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/6YoDxTE.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaioneCode">
 
 <p align="left">
-  Olá! meu nome é Raione, tenho 27 anos e estou estudando para me tornar um <strong>Desenvolvedor Front-end</strong> e entrar no mundo   da programação.
+  Olá! meu nome é Raione, tenho 28 anos e estou estudando para me tornar um <strong>Desenvolvedor Front-end</strong> e entrar no mundo da programação.
 </p>
 
 <p align="left">
