@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-📬 Quer entrar em contato? Me envie uma mensagem através das redes sociais abaixo 😉!
+📬 Quer entrar em contato? Me envie uma mensagem 😉!
 </p>
 
 <p align="left">
