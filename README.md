@@ -1,23 +1,23 @@
 <img src="https://i.imgur.com/6YoDxTE.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaioneCode">
 
 <p align="left">
-  Olá! meu nome é Raione, tenho 28 anos e estou estudando para me tornar um <strong>Desenvolvedor Front-end</strong> e entrar no mundo da programação.
+  Olá! meu nome é Raione, hoje atuo como Programador Fullstack Jr e no momento estou buscando me manter sempre atualizado com as tecnologias mais usadas e funcionais do mercado, para ter sempre a disposição do cliente a ferramenta mais eficaz para seu projeto, para não apenas fazer um layout limpo e impecável, mas também garantir que o usuário tenha uma excelente experiência ao visitar seu site.
 </p>
 
 <p align="left">
-  Minha linguagem favorita é JavaScript e através dela meu amor por programação só tem crescido.
+  Minha linguagem favorita é JavaScript e através dela meu amor por programação só tem aumentado.
 </p>
 
 <p align="left">
-🚀 Skills: <strong>HTML5, CSS3 e JavaScript</strong>.
+🚀 Skills: <strong>HTML5, CSS3, JavaScript e ReactJs</strong>.
 </p>
 
 <p align="left">
-💻 Estudando atualmente: <strong>JavaScript, ReactJs e Flutter</strong>.
+💻 Estudando atualmente: <strong>C# e Flutter</strong>.
 </p>
 
 <p align="left">
-📖 Pretende aprender: <strong>jQuery, TypeScript, Node.JS e Bootstrap</strong>.
+📖 Pretende aprender: <strong>TypeScript e Node.JS</strong>.
 </p>
 
 <p align="left">
