@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/6YoDxTE.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaioneCode">
 
 <p align="left">
-  Olá! meu nome é Raione, hoje atuo como Programador Fullstack Jr e no momento estou buscando me manter sempre atualizado com as tecnologias mais usadas e funcionais do mercado, para ter sempre a disposição do cliente a ferramenta mais eficaz para seu projeto, para não apenas fazer um layout limpo e impecável, mas também garantir que o usuário tenha uma excelente experiência ao visitar seu site.
+  Olá! meu nome é Raione, hoje atuo como Programador Fullstack Pleno na Verzel Soluções em Sistemas e no momento estou buscando me manter sempre atualizado com as tecnologias mais usadas e funcionais do mercado, para ter sempre a disposição do cliente a ferramenta mais eficaz para seu projeto, para não apenas fazer um layout limpo e impecável, mas também garantir que o usuário tenha uma excelente experiência ao visitar seu site.
 </p>
 
 <p align="left">
