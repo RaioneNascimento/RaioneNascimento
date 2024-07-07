@@ -1,23 +1,13 @@
 <img src="https://i.imgur.com/6YoDxTE.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaioneCode">
 
 <p align="left">
-  Olá! meu nome é Raione, hoje atuo como Programador Fullstack Pleno na Verzel Soluções em Sistemas e no momento estou buscando me manter sempre atualizado com as tecnologias mais usadas e funcionais do mercado, para ter sempre a disposição do cliente a ferramenta mais eficaz para seu projeto, para não apenas fazer um layout limpo e impecável, mas também garantir que o usuário tenha uma excelente experiência ao visitar seu site.
+  Olá! Sou Raione, Programador Fullstack Pleno na Verzel Soluções em Sistemas, onde me especializo em criar soluções robustas que combinam frontend e backend. Estou constantemente atualizado com as tecnologias mais avançadas do mercado, garantindo que cada projeto tenha a ferramenta mais eficaz à disposição do cliente.
+
+Minha experiência abrange o desenvolvimento dinâmico de interfaces com ReactJS, a construção escalável de APIs com Node.js, e a criação de aplicativos robustos com C# e TypeScript. Além de focar em layouts limpos e impecáveis, meu objetivo é assegurar que cada usuário desfrute de uma excelente experiência ao visitar os sites que desenvolvo.
 </p>
 
 <p align="left">
-  Minha linguagem favorita é JavaScript e através dela meu amor por programação só tem aumentado.
-</p>
-
-<p align="left">
-🚀 Skills: <strong>HTML5, CSS3, JavaScript e ReactJs</strong>.
-</p>
-
-<p align="left">
-💻 Estudando atualmente: <strong>C# e Flutter</strong>.
-</p>
-
-<p align="left">
-📖 Pretende aprender: <strong>TypeScript e Node.JS</strong>.
+🚀 Skills: <strong>ReactJs, React Native, C#, NodeJS, Next, Typescript e Flutter.</strong>
 </p>
 
 <p align="left">
@@ -37,9 +27,6 @@
 <a href="https://api.whatsapp.com/send?phone=5511959533388&text=Ol%C3%A1%20Raione%2C%20visitei%20o%20seu%20Github%20e%20gostei.%20Podemos%20conversar%3F">
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511959533388" /></a>
   
-<a href="https://raione.dev.br">
-<img src="https://img.shields.io/badge/-raione.dev.br-ed145b?style=flat-square&logo=white&link=https://raione.dev.br" /></a>
-
 <p>
 <img src="https://komarev.com/ghpvc/?username=raionenascimento" alt="raionenascimento"> 
 </p>
