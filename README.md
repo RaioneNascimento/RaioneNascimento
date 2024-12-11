@@ -1,9 +1,9 @@
 <img src="https://i.imgur.com/6YoDxTE.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RaioneCode">
 
 <p align="left">
-  Olá! Sou Raione, Programador Fullstack Pleno na Verzel Soluções em Sistemas, onde me especializo em criar soluções robustas que combinam frontend e backend. Estou constantemente atualizado com as tecnologias mais avançadas do mercado, garantindo que cada projeto tenha a ferramenta mais eficaz à disposição do cliente.
+ Olá! Sou Raione, Programador Fullstack Pleno, com foco no desenvolvimento de APIs escaláveis e frontends dinâmicos e funcionais. Tenho experiência em criar interfaces com ReactJS, construir soluções backend com Node.js e desenvolver aplicativos robustos utilizando C# e TypeScript.
 
-Minha experiência abrange o desenvolvimento dinâmico de interfaces com ReactJS, a construção escalável de APIs com Node.js, e a criação de aplicativos robustos com C# e TypeScript. Além de focar em layouts limpos e impecáveis, meu objetivo é assegurar que cada usuário desfrute de uma excelente experiência ao visitar os sites que desenvolvo.
+Meu trabalho é voltado para entregar projetos eficientes, com código limpo e organizado, garantindo que cada solução seja funcional, intuitiva e ofereça uma ótima experiência para os usuários.
 </p>
 
 <p align="left">
