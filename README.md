@@ -12,7 +12,6 @@ Junior Front-End Software Engineer with experience in JavaScript, TypeScript, Re
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RaioneNascimento&show_icons=true&theme=radical)
 
-
 ## 💌 Contact
-LinkedIn: Raione Nascimento
-Email: raione_bonfim@hotmail.com
+- LinkedIn: Raione Nascimento
+- Email: raione_bonfim@hotmail.com
