@@ -1,17 +1,43 @@
-# 👋 Hello! My name is Raione
+# Raione Nascimento
+### Software Engineer | Full-stack Developer | MBA in Software Architecture
 
-Junior Front-End Software Engineer with experience in JavaScript, TypeScript, React.js, Next.js, React Native, HTML, and CSS. I also have knowledge in Fullstack development, creation, and maintenance of APIs, applications, and administrative back offices, ensuring scalability, efficiency, and an excellent user experience. I apply agile methodologies (Scrum) to optimize workflows and ensure high system performance.
+Professional with a solid background in the **TypeScript ecosystem**, specialized in architecting and implementing scalable end-to-end applications. Expertise in developing high-performance interfaces with **React/Next.js** and robust, decoupled backends using **Node.js (NestJS)** and **Prisma ORM**. 
 
-## 🛠️ Technologies and Tools
-- Languages: JavaScript, TypeScript
-- Frameworks: HTML, CSS, React.js, Next.js, React Native, NestJS
-- Databases: PostgreSQL, MySQL, MongoDB
-- DevOps: Docker, CI/CD
-- Others: Prisma
+Currently pursuing an **MBA in Software Architecture at FIAP**, focusing on Enterprise Architecture, system scalability, and modular design patterns.
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RaioneNascimento&show_icons=true&theme=radical)
+---
 
-## 💌 Contact
-- LinkedIn: Raione Nascimento
-- Email: raione_bonfim@hotmail.com
+## Technical Expertise
+
+**Frontend & Mobile**
+*   React.js, Next.js (SSR/Static Generation), React Native
+*   State Management, Tailwind CSS, Responsive Design
+
+**Backend & Infrastructure**
+*   Node.js, NestJS, TypeScript
+*   RESTful API Design, Microservices Architecture
+*   Docker, CI/CD Pipelines, Git Flow
+
+**Data Persistence**
+*   PostgreSQL, MySQL, MongoDB
+*   Prisma ORM, Advanced Querying, Schema Design
+
+---
+
+## Technical Case Study: Keepr (Collector's Vault)
+
+A specialized inventory management system developed to handle complex asset tracking for collectors.
+
+*   **Architecture:** Modular monolith designed with NestJS, ensuring separation of concerns.
+*   **Data Integrity:** Implemented a relational schema using PostgreSQL and Prisma to handle diverse metadata.
+*   **Design System:** Built with a focus on high-fidelity UI and performance-oriented frontend components.
+
+---
+
+## Contact & Links
+
+*   **LinkedIn:** [linkedin.com/in/raionenascimento](https://www.linkedin.com/in/raionenascimento/)
+*   **Email:** raione_bonfim@hotmail.com
+
+---
+*Building scalable solutions through clean code and architectural excellence.*
