@@ -1,4 +1,3 @@
-# Raione Nascimento
 ### Software Engineer | Full-stack Developer | MBA in Software Architecture
 
 Professional with a solid background in the **TypeScript ecosystem**, specialized in architecting and implementing scalable end-to-end applications. Expertise in developing high-performance interfaces with **React/Next.js** and robust, decoupled backends using **Node.js (NestJS)** and **Prisma ORM**. 
